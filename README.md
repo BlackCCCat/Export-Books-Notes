@@ -15,10 +15,9 @@ iBook-Notes：使用Python语言实现导出`Books.app`笔记和高亮标记
 
 
 ## 使用方法
-`git clone `
+`git clone https://github.com/BlackCCCat/Export-Books-Notes.git`
 `cd IBook-Notes`
-`python main.py -h`
-
+`python main.py -h` 查看使用帮助
 
 
 
