@@ -91,14 +91,7 @@ class Actions():
 
 
 def main():
-    actions = Actions()
-    # books = actions.getBooksLists()
-    # print(books)
-    # print(actions.notes_counter)
-    res = actions.getAnnotationsDetails('明朝那些事儿')
-    # res = actions.search('发瓦尔尬舞管奥威尔噶尔')
-    print(res)
-    # print(actions.search('鬻儿卖女'))
+    pass
 
 
 if __name__ == "__main__":
